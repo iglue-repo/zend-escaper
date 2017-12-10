@@ -1,5 +1,8 @@
 {
-    "name": "zendframework/zend-escaper",
+    "name": "zendframework@iglue/zend-escaper",
+    "replace": {
+        "zendframework/zend-escaper": "2.5.2"
+    },
     "description": " ",
     "license": "BSD-3-Clause",
     "keywords": [
